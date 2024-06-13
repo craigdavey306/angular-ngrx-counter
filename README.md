@@ -1,6 +1,10 @@
 # NgrxCounter
 
+This project demonstrates using NgRx state management for a simple counter application that increments and decrements the counter. The counter value is stored in local storage in order to explort NgRx Effects.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
+
+After downloading the project, run `npm install` to install all packages and dependencies.
 
 ## Development server
 
